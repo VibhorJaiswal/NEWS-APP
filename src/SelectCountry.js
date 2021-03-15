@@ -2,12 +2,12 @@ import React from "react";
 import { Dropdown } from "react-bootstrap";
 
 function SelectCountry(props) {
-  const countryName = {
+  /*const countryName = {
     in: "India",
     cn: "china",
     ru: "Russia",
     us: "USA"
-  };
+  };*/
 
   return (
     <div className="m-3">
